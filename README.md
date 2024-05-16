@@ -1,6 +1,4 @@
-//At first install python in your computer then
-//install the librarys:
-to install librarys write this commands in command promt or windows powershell:
+First, install Python on your computer. Then, install the libraries by writing these commands in Command Prompt or Windows PowerShell:
 
 1) pip install mediapipe
 2) pip install pyserial
