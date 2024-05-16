@@ -1,8 +1,8 @@
 //At first install python in your computer then
 //install the librarys:
-write in command promt or windows powershell:
+to install librarys write this commands in command promt or windows powershell:
 
-pip install mediapipe
-pip install pyserial
-pip install opencv-python
-pip install cvzone
+1) pip install mediapipe
+2) pip install pyserial
+3) pip install opencv-python
+4) pip install cvzone
